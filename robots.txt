@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+Disallow: /bin/
+Disallow: /images/
+Disallow: /cgi-bin/
+Disallow: /dev/
